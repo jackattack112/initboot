@@ -6,4 +6,4 @@ driver.switch_to.new_window('tab')
 driver.get("https://github.com/login")
 #keep windows open forever
 while (1):
-    time.sleep(1000000000000)
+    time.sleep(999999999)
