@@ -9,7 +9,7 @@ sudo apt install ./google-chrome-stable_current_amd64.deb
 pip3 install undetected-chromedriver
 
 #run selenium script
-python3 logins.py
+python3 login.py
 
 #join tailscale
 curl -fsSL https://tailscale.com/install.sh | sh
