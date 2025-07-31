@@ -10,7 +10,3 @@ pip3 install undetected-chromedriver
 
 #run selenium script
 python3 login.py
-
-#join tailscale
-curl -fsSL https://tailscale.com/install.sh | sh
-sudo tailscale up --accept-routes
